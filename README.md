@@ -1,0 +1,2 @@
+# DigitalPress
+### a Sails application
